@@ -6,4 +6,5 @@ storytelling to highlight my professional journey.
 - Designed and developed a dynamic dashboard to showcase my resume using [ Power BI / Excel].
 - Integrated visuals to highlight experience, skills in an interactive format.
 
-![image](https://github.com/user-attachments/assets/d44a01f6-b7e5-459e-a22c-cf09f7171bb1)
+![image](![image](https://github.com/user-attachments/assets/916b6823-289b-4b9d-b614-e53e7419c09b)
+)
